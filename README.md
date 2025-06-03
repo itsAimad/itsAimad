@@ -40,7 +40,7 @@ I'm Aimad Bouya, currently in my second year at the Higher School of Technology 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn">
   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="55" height="40" alt="Plotly">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana">
-  
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" widht="40" height="40" alt="Docker">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCv">
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40" alt="RaspberryPi">
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" width="40" height="40" alt="ArduinoUno">
