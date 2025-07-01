@@ -33,7 +33,7 @@ I'm Aimad Bouya, currently in my second year at the Higher School of Technology 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase">
-  <img src="https://i.pinimg.com/736x/d4/74/7c/d4747cb7dcbecb5223b83355ea97a3be.jpg" width="50" style="border-radius:6px;" height="50" alt="AWS" href="https://www.aws.com/">
+  <img src="https://i.pinimg.com/736x/d4/74/7c/d4747cb7dcbecb5223b83355ea97a3be.jpg" width="50" style="border-radius:'6px';" height="50" alt="AWS" href="https://www.aws.com/">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='40' height='40' alt='MongoDB'>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git">
  <!-- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch">-->
