@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Aimad Bouya</h1>
-<h3 align="center">Aspiring AI & Emerging Tech Enthusiast | Student at the Higher School of Technology, Meknes</h3>
+<h3 align="center">Aspiring AI & Emerging Tech Enthusiast | Student at the Higher National School of Artificial Intelligence and Data Science, Taroudant (ENSIASD)</h3>
 
 ---
 
