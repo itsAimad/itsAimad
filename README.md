@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Aimad Bouya</h1>
 <h3 align="center">Aspiring AI & Emerging Tech Enthusiast | Student at the Higher National School of Artificial Intelligence and Data Science, Taroudant (ENSIASD)</h3>
 
----
+----
 
 ### 👨‍🎓 About Me
 I'm Aimad Bouya, currently in my second year at the Higher School of Technology in Meknes. I study *Artificial Intelligence* 🤖, *Emerging Technologies* 🚀, *Cybersecurity* 🔐, *IPv6 Networking* 🌐, *Machine Learning* 📊, and *Data Analysis & Visualization* 📈. I'm deeply engaged in fields that are set to shape the future.
