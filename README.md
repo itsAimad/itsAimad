@@ -7,6 +7,7 @@
 
 ----
 
+
 ### 👨‍🎓 About Me
 I'm Aimad Bouya, currently in my second year at the Higher School of Technology in Meknes. I study *Artificial Intelligence* 🤖, *Emerging Technologies* 🚀, *Cybersecurity* 🔐, *IPv6 Networking* 🌐, *Machine Learning* 📊, and *Data Analysis & Visualization* 📈. I'm deeply engaged in fields that are set to shape the future.
 
