@@ -20,16 +20,18 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"> -->
-  <img src="https://skillicons.dev/icons?i=all" width="40" height="40" alt="Linux">
+   <p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git" alt="Tech Stack Row 1" />
+  </p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git" alt="Tech Stack Row 1" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,sqlite,postgres,mongodb,vscode,github,vim,nginx" alt="Tech Stack Row 2" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,flask,fastapi,django,postman" alt="Tech Stack Row 3" />
-</p>
+    <img src="https://skillicons.dev/icons?i=python,php,java,js,c++,html,css,react">
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,sqlite,postgres,mongodb,c,vscode,github,vim,nginx" alt="Tech Stack Row 2" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,flask,fastapi,django,postman" alt="Tech Stack Row 3" />
+  </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
