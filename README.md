@@ -27,7 +27,7 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
     <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,bootstrap,fastapi,django,postman,tensorflow,sklearn,opencv,tailwind,vite&perline=9">
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,kafka,grafana,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,kafka,grafana,postgres,supabase,cassandra" />
   </p>
 
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"> -->
