@@ -21,7 +21,7 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"> -->
    <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git" alt="Tech Stack Row 1" />
+    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git,nginx,vim,vscode,pycharm,figma,idea" alt="Tech Stack Row 1" />
   </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,fastapi,django,postman">
