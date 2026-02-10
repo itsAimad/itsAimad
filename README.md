@@ -21,7 +21,7 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"> -->
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"> -->
    <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git,nginx,vim,vscode,pycharm,figma,idea,notion,arduino,raspberrypi&perline=9" />
+    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,git,nginx,vim,vscode,pycharm,figma,idea,notion,arduino,raspberrypi&perline=9" />
   </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,bootstrap,fastapi,django,postman,tensorflow,sklearn,opencv,tailwind,vite&perline=9">
@@ -30,31 +30,31 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,kafka,grafana,postgres,supabase" />
   </p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase">
-  <img src="https://i.pinimg.com/736x/d4/74/7c/d4747cb7dcbecb5223b83355ea97a3be.jpg" width="50" style="border-radius:'6px';" height="50" alt="AWS" href="https://www.aws.com/">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='40' height='40' alt='MongoDB'>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git">
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"> -->
+  <!-- <img src="https://i.pinimg.com/736x/d4/74/7c/d4747cb7dcbecb5223b83355ea97a3be.jpg" width="50" style="border-radius:'6px';" height="50" alt="AWS" href="https://www.aws.com/"> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width='40' height='40' alt='MongoDB'> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"> -->
  <!-- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch">-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn">
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn">
   <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" width="55" height="40" alt="Plotly">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" widht="40" height="40" alt="Docker">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCv">
   <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40" alt="RaspberryPi">
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" width="40" height="40" alt="ArduinoUno">
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" width="40" height="40" alt="ArduinoUno"> -->
 </p>
 
 ---
