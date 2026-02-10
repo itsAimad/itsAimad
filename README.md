@@ -20,7 +20,7 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"> -->
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://skillicons.dev/icons?i=all)" width="40" height="40" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=all" width="40" height="40" alt="Linux">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
