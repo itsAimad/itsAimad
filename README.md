@@ -21,13 +21,13 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"> -->
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"> -->
    <p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git,nginx,vim,vscode,pycharm,figma,idea,notion,arduino&perline=9" alt="Tech Stack Row 1" />
+    <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,terraform,git,nginx,vim,vscode,pycharm,figma,idea,notion,arduino,raspberrypi&perline=9" />
   </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,bootstrap,fastapi,django,postman,tensorflow,sklearn,opencv,tailwind,vite&perline=9">
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,kafka,grafana," alt="Tech Stack Row 2" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,kafka,grafana,postgres,supabase" />
   </p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
