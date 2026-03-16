@@ -103,10 +103,3 @@ I'm expanding my skills in Linux OS 🐧, Computer Vision 👁️, IoT 🌐, Art
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=bugshadow&icon=0&color=0">
-  </a>
-</p>
-
-![snake gif](https://github.com/bugshadow/bugshadow/blob/output/github-snake-dark.svg)
