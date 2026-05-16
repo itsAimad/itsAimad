@@ -24,7 +24,8 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
     <img src="https://skillicons.dev/icons?i=windows,bash,linux,kali,docker,kubernetes,aws,azure,git,nginx,vim,vscode,pycharm,figma,idea,notion,arduino,raspberrypi&perline=9" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,bootstrap,fastapi,django,postman,tensorflow,sklearn,opencv,tailwind,vite&perline=9">
+    <img src="https://skillicons.dev/icons?i=python,php,java,js,cpp,html,css,react,bootstrap,fastapi,django,postman,sklearn,opencv,tailwind,vite&perline=9">
+    <!--                                                                                                             tensorflow-->
   </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,kafka,grafana,postgres,supabase,cassandra" />
