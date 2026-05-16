@@ -31,7 +31,7 @@ I'm Aimad Bouya, AI & BIG DATA ENGINNERING STUDENT. I study *Artificial Intellig
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,kafka,grafana,postgres,supabase,cassandra" />
   </p>
   <p align="center">
-    <img src="httpa://skillicons.dev/icons?=i=arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?=i=arduino,raspberrypi" />
   </p>
 
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"> -->
